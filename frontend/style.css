@@ -3,3 +3,4 @@
 .value{display:block;font-size:22px;margin:9px 0}.batch .metricline strong{font-size:21px}.revision .grid3{margin:20px 0}nav{padding-top:18px}nav a{padding-top:13px;padding-bottom:13px}
 
 .subhead{margin-top:30px!important}.stock-table{overflow:auto}.issue .value{font-size:25px}.dispatch .rule,.complaint .rule{font-size:13px;line-height:1.8}.complaint .actions{display:flex;gap:10px;margin-top:18px}nav a{padding-top:10px;padding-bottom:10px}nav .hint{font-size:11px}.complaint,.dispatch{overflow-wrap:anywhere}@media(max-width:767px){.stock-table table{min-width:470px}.issue .grid3{grid-template-columns:1fr 1fr 1fr}.issue .value{font-size:21px}}
+details{margin-top:10px}summary{cursor:pointer;letter-spacing:1px}details table{margin-top:10px;font-size:12px}.verdict-form{margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}.verdict-form button{margin-top:4px}.value{font-size:22px;display:block;margin-top:6px}
